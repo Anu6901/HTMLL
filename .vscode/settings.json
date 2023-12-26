@@ -1,0 +1,18 @@
+{
+    "liveServer.settings.fullReload": true,
+    "liveServer.settings.https": {
+        "enable": true
+    },
+    "liveServer.settings.ignoreFiles": [
+        ".vscode/**",
+        "**/*.scss",
+        "**/*.sass",
+        "**/*.ts"
+    ],
+    "liveServer.settings.NoBrowser": false,
+    "liveServer.settings.port": 1,
+    "liveServer.settings.useLocalIp": true,
+    "liveServer.settings.useWebExt": true,
+    "liveServer.settings.wait": 10000000000,
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "chrome --incognito --headless --remote-debugging-port=9222"
+}
